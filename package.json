@@ -1,0 +1,15 @@
+{
+  "name": "railtech-maharashtra",
+  "version": "1.0.0",
+  "description": "Railway booking and optimization app for Maharashtra",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
